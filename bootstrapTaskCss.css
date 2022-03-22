@@ -1,0 +1,71 @@
+
+.content_button{
+    position:fixed;
+    left: 96%;
+    top: 90%
+}
+.content_button a{
+    color: black;
+    text-decoration: none;
+
+    
+}
+nav{
+    background-color: darkslategrey;
+    height: 40px;
+}
+
+nav p{
+    color: white;
+    font-size: 23px;
+    margin-left: 20px;
+}
+.description{
+    margin: 40px auto;
+}
+.description .section_description h1{
+    font-weight: 100;
+}
+.description .section_description p{
+    font-weight: 100;
+    font-size: 19px;
+    color:brown
+}
+.description .section_description button{
+   margin-right: 6px
+}
+
+.content{
+    border-radius: 5px;
+    background-color:#cffff4;
+}
+.content_card{
+       padding: 22px; 
+}
+.inside_container_card{
+   
+    margin-bottom: 10px;
+    overflow: hidden
+   
+}
+.content img{
+    border-radius: 5px;
+}
+.inside_card{
+    background-color:white;
+     overflow: hidden;
+   
+}
+.end_card{
+    
+    margin-bottom: 20px;
+    overflow: hidden;
+}
+.end_card button{
+    float: left;
+     color:brown
+}
+.end_card span{
+    float: right;
+   color:brown
+}
